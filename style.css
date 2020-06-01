@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+
+#resp{
+    overflow-x: auto;
+}
+
+#h3{
+    height: 90%;
+    width: 80%;
+    margin: 0 auto;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    
+}
+
+#h4{
+    height: 24%;
+    font-size: 320%;
+}
+
+#h5{
+    font-family: 'Chelsea Market', cursive, Arial, sans-serif;
+}
+.h2{
+    height: 19%;
+    font-size: 240%;
+    background-color: rgb(12, 180, 54);
+    color: aliceblue;
+    padding: 60%;
+}
+
+.h1{
+    font-family: 'Chelsea Market', cursive, Arial, sans-serif;
+}
+
+.h1 a:hover, a:visited, a:link, a:active{
+    text-decoration: none;
+    color: inherit;
+}
